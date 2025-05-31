@@ -4,6 +4,10 @@
 
 <h1 align="center">👋 Hi there</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kudratov25&color=blue&style=flat-square" alt="Visitor count"/>
+</p>
+
 ## 🚀 About Me
 
 - 🔨 Currently working on a **SaaS product**
@@ -76,3 +80,5 @@
 <p align="center">
   ⭐️ Check out my pinned repositories — feel free to star or fork them if something inspires you!
 </p>
+
+
