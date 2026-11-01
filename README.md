@@ -10,7 +10,7 @@
 
 I build backend systems for real products: REST APIs, payment integrations, authentication and real-time features. I have 2+ years of production experience with **PHP / Laravel**, and I'm now learning **Python, FastAPI and AI** at university.
 
-🔎 **Open to new opportunities:** Backend · Python · AI, in Rosenheim / Munich or remote.
+🔎 **Open to new opportunities** in backend and software engineering, in Rosenheim / Munich or remote.
 
 ---
 
@@ -33,8 +33,7 @@ I build backend systems for real products: REST APIs, payment integrations, auth
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kudratov25&show_icons=true&theme=radical&border_radius=10" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudratov25&layout=compact&theme=radical&border_radius=10" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=kudratov25&theme=radical&border_radius=10" alt="GitHub streak stats" />
 </p>
 
 ## 🌍 Languages
