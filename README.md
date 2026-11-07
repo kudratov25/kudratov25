@@ -10,7 +10,7 @@
 
 I build backend systems for real products: REST APIs, payment integrations, authentication and real-time features. I have 2+ years of production experience with **PHP / Laravel**, and I'm now learning **Python, FastAPI and AI** at university.
 
-🔎 **Open to new opportunities** in backend and software engineering, in Rosenheim / Munich or remote.
+🔎 **Open to new opportunities** in backend and software engineering.
 
 ✍️ **Blog:** I write here about tech and none tech: [blog.kudratov.uz](https://blog.kudratov.uz)
 
