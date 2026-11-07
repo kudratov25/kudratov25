@@ -49,7 +49,6 @@ Uzbek (native) · English (professional) · German (B1, improving)
 [![Email](https://img.shields.io/badge/Email-sherzodqudratov53%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sherzodqudratov53@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sherzod--kudratov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherzod-kudratov)
 [![Blog](https://img.shields.io/badge/Blog-blog.kudratov.uz-0A66C2?style=flat-square&logo=rss&logoColor=white)](https://blog.kudratov.uz)
-[![OSG](https://img.shields.io/badge/OSG-osg.kudratov.uz-5B8DEF?style=flat-square&logo=apple&logoColor=white)](https://osg.kudratov.uz)
 
 ---
 
