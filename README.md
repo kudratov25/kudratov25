@@ -12,28 +12,16 @@ I build backend systems for real products: REST APIs, payment integrations, auth
 
 🔎 **Open to new opportunities** in backend and software engineering, in Rosenheim / Munich or remote.
 
-✍️ I write about backend engineering on my blog: **[blog.kudratov.uz](https://blog.kudratov.uz)**, deep dives on PostgreSQL indexing, distributed caching, Laravel architecture and real-world production trade-offs.
-
-🚀 My latest product: **[OSG: German & English words](https://osg.kudratov.uz)**, a mobile app that teaches 3 words a day through notifications and Home / Lock Screen widgets.
+✍️ **Blog:** [blog.kudratov.uz](https://blog.kudratov.uz) · 📱 **OSG app:** [osg.kudratov.uz](https://osg.kudratov.uz)
 
 ---
-
-## 🚀 Featured: OSG
-
-**[osg.kudratov.uz](https://osg.kudratov.uz)** · one German or English word at 08:00, 12:00 and 18:00, in a notification and on your Home and Lock Screen. Words fit your level and your job; the app speaks English, O'zbekcha and Русский.
-
-[![App Store](https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/osg-german-english-words/id6831067994)
-[![Google Play](https://img.shields.io/badge/Google_Play-Beta-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/apps/testing/uz.kudratov.osg)
-[![Website](https://img.shields.io/badge/Website-osg.kudratov.uz-5B8DEF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://osg.kudratov.uz)
-[![Source code](https://img.shields.io/badge/Source-osg--words-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kudratov25/osg-words)
-
-Built end to end: Flutter app (iOS + Android, widgets, scheduled notifications) · FastAPI backend · admin panel · landing page.
 
 ## 📌 Projects
 
 | Project | What it is |
 |---|---|
-| [osg-words](https://github.com/kudratov25/osg-words) | Open-source code of OSG: Flutter app, FastAPI backend, admin panel and landing page · [website](https://osg.kudratov.uz) |
+| [osg-words](https://github.com/kudratov25/osg-words) | OSG, a mobile app for learning German & English words · [website](https://osg.kudratov.uz) |
+| [blog-app](https://github.com/kudratov25/blog-app) | My engineering blog (Nuxt 3 + Laravel 11) · [website](https://blog.kudratov.uz) |
 | [laravel-master](https://github.com/kudratov25/laravel-master) | Laravel 11 API starter template: JWT auth, role-based permissions, file management, translations, audit logging |
 | [laravel-clickhouse-service](https://github.com/kudratov25/laravel-clickhouse-service) | Batch export from MySQL / PostgreSQL to ClickHouse for analytics, with a failed-row log |
 | [reverb-tester](https://github.com/kudratov25/reverb-tester) | Vue 3 tool for testing Laravel Reverb / Pusher WebSocket broadcasting |
