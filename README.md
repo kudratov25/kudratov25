@@ -12,7 +12,7 @@ I build backend systems for real products: REST APIs, payment integrations, auth
 
 🔎 **Open to new opportunities** in backend and software engineering, in Rosenheim / Munich or remote.
 
-✍️ **Blog:** [blog.kudratov.uz](https://blog.kudratov.uz) · 📱 **OSG app:** [osg.kudratov.uz](https://osg.kudratov.uz)
+✍️ **Blog:** I write here about tech and none tech here: [blog.kudratov.uz](https://blog.kudratov.uz)
 
 ---
 
